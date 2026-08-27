@@ -1,5 +1,0 @@
-I am Saksham
-age 18
-I am learning java
-java is fun.
-End of code!
